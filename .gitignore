@@ -4,3 +4,5 @@ HandyBook/ZZCakeBuild/obj/
 
 HandyBook/HandyBook/bin/
 HandyBook/HandyBook/obj/
+
+*.user
