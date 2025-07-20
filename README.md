@@ -1,2 +1,2 @@
 # HandyBook
- An inventory mod for Vintage Story
+ An inventory overhaul for Vintage Story
